@@ -1,5 +1,8 @@
 # Desenvolvedor Full Stack | Digital College
 
-Fala pessoal!!!
+Olá!
 
-Este repositório 
+Bem-vindos!
+
+Neste repositório você pode acompanhar toda a minha evolução no curso de Desenvovedor Full Stack da Digital College Brasil.
+
